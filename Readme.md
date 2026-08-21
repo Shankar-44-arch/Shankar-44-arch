@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Always+Learning+New+Tech;Building+robust+web+applications;" alt="Typing SVG" />
@@ -51,31 +51,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Shankar-44-arch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shankar-44-arch&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Shankar's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shankar-44-arch">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shankar-44-arch&theme=radium&hide_border=true&background=0D1117" alt="Shankar's GitHub Streak" />
-  </a>
-</p>
-
----
-
-### 🏆 Top Languages
-
-<p align="center">
-  <a href="https://github.com/Shankar-44-arch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-44-arch&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Shankar's Top Languages" />
-  </a>
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
